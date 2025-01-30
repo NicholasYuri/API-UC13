@@ -50,7 +50,7 @@ Retorna a lista completa de carros disponiveis.
     "potencia": "770",
     "consumo": "6.2",
   },
-];
+]
 ```
 
 ## Como Rodar o Projeto
