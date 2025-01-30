@@ -17,14 +17,14 @@ Este é um projeto de CRUD (Create, Read, Update, Delete), que sera expandido no
 ## Estrutura inicial do projeto
 
 - **app.js**: Arquivo principal que configura o servidor express e as rotas de API.
-- **tabelacarros.js**: comtém a lista de carros (dados fictícios).
-- **validacao.js**: Comtém as validação Joi para os dados do carros.
+- **tabelacarros.js**: contém a lista de carros (dados fictícios).
+- **validacao.js**: Contém as validação Joi para os dados do carros.
 
-## Tecnoligias Usadas
+## Tecnologias Usadas
 
 - **Node.js**: Ambiente de execução para JavaScript.
 - **Express**: framework para a contrução de API REST.
-- **JOI**: Biblioteca de validação de dados.
+- **JOI**: Bibliotéca de validação de dados.
 
 ## Endpoints
 
