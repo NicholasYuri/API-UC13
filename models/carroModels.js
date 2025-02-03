@@ -18,7 +18,7 @@ let carros2025 = [
   ];
   
 // Função que retorna todos os carros de array
-export const getAllCarros = () => carros2025
+export const getAllcarros = () => carros2025
 
 //  Função que retorna um carro específico pelo identificador
 export const getCarroBySigla = (sigla) => {
